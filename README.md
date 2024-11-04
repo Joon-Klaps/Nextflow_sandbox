@@ -4,15 +4,17 @@ This repository is a place to explore Nextflow and nf-core functions in the Gitp
 
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/Joon-Klaps/Nextflow_sandbox)
 
-This [Gitpod](https://www.gitpod.io/) environment comes installed with:
+This [Gitpod](https://www.gitpod.io/) environment (a docker container) comes installed with:
 - Git
 - Docker
 - Apptainer
 - Conda
-- Mamba
+- Pixi
 - Nextflow
 - nf-core
 - nf-test
+
+The [Dockerfile](https://github.com/nf-core/tools/blob/master/nf_core/gitpod/gitpod.Dockerfile) for this environment lives on nf-core/tools.
 
 ## Explore
 
